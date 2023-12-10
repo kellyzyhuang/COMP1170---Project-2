@@ -65,6 +65,12 @@
     }
 }
 
+@media all and (max-width: 600px) {
+    .nav {
+        background-color: rgb(45, 94, 110);
+    }
+}
+
 .footer p {
     color: white; 
 }
@@ -80,3 +86,4 @@
 h3 {
     padding: 20px; 
 }
+
